@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<pluggable type="plugin">
+	<name>TheViewInside Gallery</name>
+	<license url="http://www.apache.org/licenses/LICENSE-2.0.html">Apache Software License 2.0</license>
+	<author url="http://konzertheld.de/">Christian Gredig</author>
+	<version>1.0</version>
+	<url>http://konzertheld.de</url>
+	<description><![CDATA[Gallery plugin for the theme TheViewInside]]></description>
+	<copyright>2015</copyright>
+	<help>
+		<value><![CDATA[
+		
+		]]></value>
+	</help>
+	<guid>E9390D4A-941D-4371-A70B-E74A420D5DCF</guid>
+	<provides><feature>gallery</feature></provides>
+</pluggable>
